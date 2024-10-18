@@ -2,7 +2,8 @@
 
 I am a passionate B.Tech Data Science student at MCKV Institute of Engineering, driven by a curiosity for technology and a love for music.
 
-![Tanmoy0077's Stats](https://github-readme-stats.vercel.app/api?username=Tanmoy0077&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Tanmoy0077&theme=dark&hide_border=false) &nbsp;&nbsp;&nbsp;&nbsp;
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy0077&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🚀 About Me
 
@@ -27,8 +28,12 @@ I am a passionate B.Tech Data Science student at MCKV Institute of Engineering, 
 
 
 ## 📬 Get in Touch
-
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/tanmoy0077-data/)
+<p align="left">
+<a href="https://linkedin.com/in/tanmoy0077-data" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanmoy0077-data" height="30" width="40" /></a>
+<a href="https://kaggle.com/tanmoypradhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tanmoypradhan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tanmoy_0077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tanmoy_0077" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tanmoy0077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanmoy0077" height="30" width="40" /></a> 
+</p>
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
